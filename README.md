@@ -6,8 +6,8 @@ Quiz Show Application asks questions to user and to evaluate answers as true or 
 
 If the answer of question is true, green light turns on 🟢. If the answer of question is false, red light turns on 🔴.  
 
+![Ekran görüntüsü 2024-08-31 111439](https://github.com/user-attachments/assets/89b38be5-d83b-42a9-a5c0-769762851011)
 
-![Ekran görüntüsü 2024-08-31 104134](https://github.com/user-attachments/assets/bad7dc24-59f3-4951-b87c-74df58823a6b)
-![Ekran görüntüsü 2024-08-31 104206](https://github.com/user-attachments/assets/4f71f14c-5ba6-440b-a939-b73ebe8778e1)
-![Ekran görüntüsü 2024-08-31 104229](https://github.com/user-attachments/assets/3c356526-d3c7-46d9-a92d-082718549f19)
-![Ekran görüntüsü 2024-08-31 104418](https://github.com/user-attachments/assets/fa0b2f88-3b5f-43a2-910f-1e491c87df03)
+![Ekran görüntüsü 2024-08-31 111456](https://github.com/user-attachments/assets/9a63bdfa-d839-4b3a-9965-f83e0b096bbd)
+![Ekran görüntüsü 2024-08-31 111513](https://github.com/user-attachments/assets/dece4dba-9cec-4205-bbb7-1201d6db7b4f)
+![Ekran görüntüsü 2024-08-31 111602](https://github.com/user-attachments/assets/ec5ac834-e015-4565-a5bd-fe0240d67865)
